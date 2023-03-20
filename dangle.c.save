@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int func()
+{
+	int *ptr2;
+
+	return 0
+}
+
+int main()
+{
+	int *newptr, var1=0, var2=0,i=0;
+	new_ptr=calloc(sizeof(int),5);
+
+	for(i=0;i<5;i++)
+	{
+		scanf("%d",&new_ptr[i]);
+	}
+	printf("This is value:\n",);
+	for(i=0;i<5;i++)
+	{
+		printf("%d\n",new_ptr[i]);
+	}
+
+	
+	return 0;
+}

@@ -1,0 +1,17 @@
+
+1.project details
+2.working of washing machine
+3.the components to use for washing machine
+4.working from the design of a microcontroller
+5.types of microcontrollers based to their components
+6.which peripherals should we use for this
+7.to design a consumer device what elements will be mostly needed
+8.examples of microcontrollers and where they are used
+
+1.bit manipulation examples
+2.sum of elements of an array in c and c++
+3.check palindrome in c++
+
+1.write class of string and the functions that we need with it
+2.make linked list with use of class, don't make in the C pattern. 
+3.insert and delete @end.

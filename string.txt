@@ -1,0 +1,26 @@
+
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    int  var=0;
+    string strmsg;
+    char msg[20];
+  //  vector<int> vico;
+    cout<<"Enter the string\n"<<endl;
+    scanf("%[^\n]s",msg);
+    
+    
+    cout<<"ans= "<<msg<<endl;
+    
+    strmsg=msg;
+    
+    cout<<"new ans=="<<strmsg<<endl;
+    return 0;
+}
+
+
